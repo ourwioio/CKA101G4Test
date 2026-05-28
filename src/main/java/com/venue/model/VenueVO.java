@@ -1,4 +1,4 @@
-package com.webond.venue.model;
+package com.venue.model;
 
 public class VenueVO {
 	
