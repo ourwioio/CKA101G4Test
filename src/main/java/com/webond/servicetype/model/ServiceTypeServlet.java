@@ -1,10 +1,9 @@
-package com.webond.serviceType.model;
+package com.webond.servicetype.model;
 
 import java.io.IOException;
 import java.util.List;
 
-import com.webond.serviceType.model.ServiceTypeService;
-
+import com.webond.servicetype.model.ServiceTypeService;
 
 import jakarta.servlet.RequestDispatcher;
 import jakarta.servlet.ServletException;

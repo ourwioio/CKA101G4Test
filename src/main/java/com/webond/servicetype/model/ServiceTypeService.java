@@ -1,4 +1,4 @@
-package com.webond.serviceType.model;
+package com.webond.servicetype.model;
 
 import java.util.List;
 

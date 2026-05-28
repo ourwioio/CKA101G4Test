@@ -1,4 +1,4 @@
-package com.webond.serviceType.model;
+package com.webond.servicetype.model;
 
 public class ServiceTypeVO implements java.io.Serializable {
 	private Integer serviceTypeId;
