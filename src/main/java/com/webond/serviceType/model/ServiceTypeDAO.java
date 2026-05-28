@@ -14,7 +14,7 @@ import javax.naming.InitialContext;
 import javax.naming.NamingException;
 import javax.sql.DataSource;
 
-public class ServiceTypeDAO implements ServiceTypeDao_interface {
+public class ServiceTypeDAO implements ServiceTypeDAO_interface {
 	private static DataSource ds = null;
 	static {
 		try {

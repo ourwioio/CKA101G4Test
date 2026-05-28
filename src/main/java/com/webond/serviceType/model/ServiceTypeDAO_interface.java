@@ -3,7 +3,7 @@ package com.webond.serviceType.model;
 import java.util.List;
 import java.util.Map;
 
-public interface ServiceTypeDao_interface {
+public interface ServiceTypeDAO_interface {
 	public void insert(ServiceTypeVO serviceType);
 	public void delete(ServiceTypeVO serviceType);
 	public void update(ServiceTypeVO serviceType);

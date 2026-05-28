@@ -4,7 +4,7 @@ import java.util.List;
 
 public class ServiceTypeService {
 
-    private ServiceTypeDao_interface dao;
+    private ServiceTypeDAO_interface dao;
 
     public ServiceTypeService() {
         dao = new ServiceTypeDAO();
